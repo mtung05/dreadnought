@@ -2,7 +2,7 @@ Dreadnought
 
 A battleship-like game supporting online play.
 
-This project is being developed as part of Dr. Zhong's Data Communication and Networking class at Troy University however anyone is welcome to contribute.
+This project is being developed as part of Dr. Zhong's Data Communication and Networking class at Troy University.
 
 The project will be written using Java.
 
@@ -40,7 +40,7 @@ and the columns are given the letters A-L
 Shots are described as [row][column]
 eg: fire A10
 
-The ships cannot overlap, ie each sqare is occupied by at most one ship.
+The ships cannot overlap, ie each square is occupied by at most one ship.
 
 Phases of Gameplay:
 
